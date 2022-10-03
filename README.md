@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/93520178/193683960-bdbc6878-f1f2-4819-85fe-e6bb79c5fb6b.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/93520178/193683960-bdbc6878-f1f2-4819-85fe-e6bb79c5fb6b.png" width="250"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/hayet-f-5b4347247/L">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
