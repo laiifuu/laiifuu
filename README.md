@@ -25,8 +25,7 @@ So far, I've been improving my front-end skills. You can check what I've built r
 <h1>
   Skills 🔥
 </h1>
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,vscode,webpack" />
           
 </div>
 
