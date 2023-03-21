@@ -19,13 +19,16 @@
 
 <p>My name is Hayet, and I'm a computer science graduate :mortar_board: from Algeria. I graduated from the university of Abd El Hamid Mehri (AKA the university of Constantine 2), and got a Master's degree 📜 in Networks and Distributed Systems. 
 I am currently a student at Microverse, learning what it takes to become a full stack software developer 👩‍💻💻 while working with people from all over the world 🤓. 
-So far, I've been improving my front-end skills. You can check what I've built recently <a href="https://github.com/laiifuu?tab=repositories">here</a>.
+You can check what I've built recently <a href="https://github.com/laiifuu?tab=repositories">here</a>.
 </p>
 
 <h1>
   Skills 🔥
 </h1>
-<img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,vscode,webpack" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,react,redux,vscode,webpack,figma,firebase,mysql,netlify,postgres,postman,ruby,rails&theme=dark&perline=8" />
+
+  </p>
           
 </div>
 
