@@ -1,11 +1,14 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/93520178/193683960-bdbc6878-f1f2-4819-85fe-e6bb79c5fb6b.png" width="250"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/hayet-f-5b4347247/L">
+  <a href="https://www.linkedin.com/in/hayetfe/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/hayet_fe">
-    <img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://hayet-fe.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://dev.to/laiifuu">
+    <img src="https://img.shields.io/badge/Dev.To-blueviolet?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=laiifuu&style=flat-square&color=blue" alt=""/>
@@ -26,7 +29,7 @@ You can check what I've built recently <a href="https://github.com/laiifuu?tab=r
   Skills 🔥
 </h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,react,redux,vscode,webpack,figma,firebase,mysql,netlify,postgres,postman,ruby,rails&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,ts,react,redux,nextjs,tailwind,vscode,neovim,webpack,figma,firebase,mysql,netlify,postgres,postman,ruby,rails,nodejs&theme=dark&perline=8" />
 
   </p>
           
