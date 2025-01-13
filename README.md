@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/hayetfe/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://hayet-fe.tech/">
+  <a href="https://laifuu.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://dev.to/laiifuu">
