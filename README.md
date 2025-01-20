@@ -4,11 +4,8 @@
   <a href="https://www.linkedin.com/in/hayetfe/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://laifuu.netlify.app/">
+  <a href="https://hayet-fe.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://dev.to/laiifuu">
-    <img src="https://img.shields.io/badge/Dev.To-blueviolet?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=laiifuu&style=flat-square&color=blue" alt=""/>
