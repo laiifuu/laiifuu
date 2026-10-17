@@ -14,7 +14,7 @@
   Skills 🔥
 </h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,ts,react,redux,nextjs,tailwind,vscode,neovim,webpack,figma,firebase,mysql,netlify,postgres,postman,ruby,rails,nodejs&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,react,redux,nextjs,tailwind,flutter,vscode,neovim,webpack,figma,firebase,mysql,netlify,postgres,postman,ruby,rails,nodejs&theme=dark&perline=8" />
 
   </p>
           
